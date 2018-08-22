@@ -1,3 +1,16 @@
 body {
     background-color: darkolivegreen;
 }
+
+p {
+    color: darkslategrey
+}
+
+div {
+    max-width: 50%;
+    background-color: lightgrey;
+}
+
+img {
+    width: 100%;
+}
