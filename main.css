@@ -6,9 +6,15 @@ p {
     color: darkslategrey
 }
 
-div {
+.cardbox {
+    display: flex;
+}
+
+.card {
     max-width: 50%;
     background-color: lightgrey;
+    margin: 5px;
+
 }
 
 img {
